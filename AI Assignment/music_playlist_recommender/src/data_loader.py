@@ -7,7 +7,7 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 SONGS_CSV = DATA_DIR / "songs.csv"
-INTERACTIONS_CSV = DATA_DIR / "user_interactions.csv"
+INTERACTIONS_CSV = DATA_DIR / "user_interactions.csv" #eason
 
 SONG_COLUMNS = [
     "song_id",
