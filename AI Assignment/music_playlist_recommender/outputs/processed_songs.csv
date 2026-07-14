@@ -1,0 +1,101 @@
+song_id,title,artist,genre,tempo,energy,danceability,valence,acousticness,popularity
+S001,Velvet Ocean 1,Rose Harbor,Pop,118,0.74,0.23,0.93,0.69,89
+S002,Light Motion 2,Rose Harbor,Electronic,163,0.49,0.89,0.65,0.74,56
+S003,City Heart 3,Maya Blue,Classical,80,0.25,0.81,0.64,0.69,64
+S004,Night Rhythm 4,DJ Horizon,Electronic,119,0.81,0.31,0.5,0.06,92
+S005,Gravity Velvet 5,Midnight Echo,Classical,172,0.95,0.41,0.41,0.43,80
+S006,City Motion 6,Midnight Echo,R&B,146,0.38,0.69,0.47,0.75,58
+S007,Night Road 7,Silver Pulse,Electronic,155,0.83,0.46,0.35,0.62,87
+S008,Moon Signal 8,Midnight Echo,Electronic,159,0.81,0.68,0.7,0.71,20
+S009,Light Echo 9,Maya Blue,Classical,74,0.29,0.68,0.5,0.52,31
+S010,Echo Summer 10,Rose Harbor,Pop,132,0.64,0.39,0.13,0.4,64
+S011,Sky Ocean 11,Luna Park,Country,180,0.38,0.2,0.34,0.28,89
+S012,Motion Echo 12,Kai Morgan,Jazz,126,0.72,0.48,0.79,0.17,83
+S013,Motion Night 13,Ava Stone,Hip-Hop,155,0.56,0.28,0.53,0.15,78
+S014,City Ocean 14,Silver Pulse,Jazz,88,0.44,0.65,0.41,0.1,50
+S015,Road Rhythm 15,Neon Rivers,Hip-Hop,110,0.75,0.36,0.92,0.71,93
+S016,River Ocean 16,Silver Pulse,Hip-Hop,151,0.28,0.87,0.49,0.2,42
+S017,Moon Echo 17,The Velvet Keys,Electronic,130,0.87,0.76,0.71,0.4,34
+S018,Motion Echo 18,Kai Morgan,Hip-Hop,80,0.27,0.48,0.14,0.45,72
+S019,Velvet Motion 19,The Velvet Keys,Rock,145,0.66,0.29,0.89,0.53,28
+S020,Summer Echo 20,DJ Horizon,Jazz,102,0.95,0.54,0.77,0.09,21
+S021,Velvet City 21,Northline,Hip-Hop,118,0.65,0.53,0.33,0.31,95
+S022,Moon Ocean 22,Northline,Classical,101,0.84,0.87,0.22,0.51,21
+S023,Velvet Velvet 23,Neon Rivers,Hip-Hop,83,0.71,0.73,0.75,0.11,42
+S024,Rhythm Heart 24,Nova Beats,Classical,96,0.63,0.45,0.81,0.73,23
+S025,Heart Rhythm 25,The Velvet Keys,Country,140,0.6,0.35,0.9,0.16,43
+S026,Sky Ocean 26,Ava Stone,Classical,177,0.9,0.75,0.86,0.81,100
+S027,City Road 27,Northline,Pop,72,0.72,0.45,0.18,0.68,82
+S028,Dream Memory 28,Luna Park,Jazz,175,0.3,0.81,0.23,0.18,39
+S029,Gravity Golden 29,Golden Avenue,Hip-Hop,74,0.44,0.77,0.93,0.46,35
+S030,Memory Dream 30,Midnight Echo,Jazz,89,0.3,0.69,0.2,0.47,38
+S031,River Echo 31,Silver Pulse,Country,116,0.83,0.72,0.73,0.14,36
+S032,Echo Memory 32,Neon Rivers,Jazz,78,0.43,0.54,0.66,0.86,52
+S033,Rhythm Memory 33,The Velvet Keys,Classical,125,0.63,0.66,0.19,0.14,22
+S034,Dream Rhythm 34,Maya Blue,Electronic,88,0.93,0.79,0.5,0.71,68
+S035,Velvet Motion 35,Ava Stone,R&B,101,0.82,0.34,0.55,0.55,87
+S036,River Summer 36,Nova Beats,Country,102,0.49,0.49,0.65,0.78,53
+S037,Light Heart 37,Maya Blue,Hip-Hop,99,0.78,0.8,0.19,0.08,39
+S038,Fire Motion 38,Golden Avenue,Jazz,91,0.44,0.27,0.88,0.17,86
+S039,Echo Signal 39,The Velvet Keys,Rock,120,0.22,0.19,0.25,0.07,29
+S040,Light Velvet 40,Golden Avenue,Jazz,159,0.45,0.55,0.84,0.77,51
+S041,City Signal 41,Ava Stone,Classical,168,0.39,0.61,0.45,0.06,39
+S042,Memory Light 42,DJ Horizon,Pop,169,0.85,0.19,0.89,0.11,28
+S043,Moon Memory 43,Urban Meadow,R&B,96,0.83,0.77,0.65,0.71,99
+S044,Moon Light 44,Midnight Echo,Electronic,105,0.87,0.52,0.43,0.58,61
+S045,Night Motion 45,Luna Park,Rock,118,0.53,0.34,0.41,0.34,58
+S046,Ocean Fire 46,The Velvet Keys,Electronic,90,0.43,0.91,0.88,0.44,75
+S047,City Light 47,The Velvet Keys,R&B,176,0.71,0.79,0.55,0.58,88
+S048,Signal Gravity 48,The Velvet Keys,Pop,73,0.74,0.84,0.21,0.56,36
+S049,Summer Gravity 49,Neon Rivers,Electronic,134,0.93,0.26,0.92,0.72,26
+S050,Ocean River 50,Golden Avenue,Jazz,180,0.94,0.35,0.6,0.1,84
+S051,Signal Signal 51,Kai Morgan,Classical,84,0.65,0.52,0.54,0.69,65
+S052,Light City 52,Rose Harbor,Country,96,0.93,0.25,0.2,0.1,68
+S053,Gravity Ocean 53,Kai Morgan,Jazz,172,0.72,0.42,0.86,0.69,82
+S054,River Fire 54,The Velvet Keys,Electronic,129,0.32,0.27,0.9,0.41,45
+S055,Motion Gravity 55,DJ Horizon,Electronic,89,0.93,0.77,0.51,0.35,64
+S056,Dream Gravity 56,The Calm Lights,Electronic,163,0.29,0.83,0.64,0.13,97
+S057,Dream Velvet 57,Golden Avenue,Jazz,130,0.55,0.81,0.35,0.42,20
+S058,Dream Road 58,Maya Blue,Hip-Hop,127,0.81,0.24,0.95,0.79,94
+S059,River Moon 59,The Velvet Keys,Electronic,74,0.98,0.68,0.65,0.1,28
+S060,Golden Dream 60,Nova Beats,Electronic,97,0.31,0.77,0.27,0.82,39
+S061,Memory Dream 61,Kai Morgan,Hip-Hop,70,0.24,0.63,0.78,0.23,20
+S062,Heart Night 62,Urban Meadow,Hip-Hop,144,0.92,0.77,0.69,0.76,84
+S063,City Heart 63,Ava Stone,Jazz,82,0.59,0.75,0.64,0.77,30
+S064,Moon Gravity 64,Midnight Echo,Jazz,75,0.41,0.72,0.93,0.56,35
+S065,Night Summer 65,Ava Stone,Classical,70,0.89,0.72,0.25,0.1,23
+S066,Fire Rhythm 66,Midnight Echo,R&B,135,0.81,0.66,0.59,0.15,57
+S067,Light Road 67,The Calm Lights,Rock,116,0.75,0.67,0.9,0.15,66
+S068,Velvet Ocean 68,Northline,Jazz,171,0.29,0.26,0.34,0.29,58
+S069,River Summer 69,Maya Blue,Classical,114,0.52,0.48,0.28,0.54,71
+S070,Memory Dream 70,The Velvet Keys,Classical,103,0.57,0.33,0.59,0.52,53
+S071,Light Summer 71,Silver Pulse,Classical,135,0.45,0.78,0.57,0.4,72
+S072,Light Fire 72,Kai Morgan,Classical,176,0.77,0.86,0.88,0.46,61
+S073,Sky River 73,Northline,Electronic,97,0.85,0.55,0.2,0.08,45
+S074,Moon Night 74,Urban Meadow,R&B,78,0.46,0.29,0.37,0.67,42
+S075,Ocean Moon 75,Ava Stone,Country,148,0.49,0.27,0.61,0.13,89
+S076,Light Rhythm 76,DJ Horizon,Classical,78,0.8,0.4,0.68,0.64,100
+S077,Memory Summer 77,DJ Horizon,R&B,107,0.36,0.57,0.24,0.17,20
+S078,Memory Rhythm 78,Urban Meadow,Jazz,176,0.85,0.94,0.22,0.41,65
+S079,Road Night 79,DJ Horizon,R&B,162,0.54,0.53,0.23,0.18,81
+S080,Memory Dream 80,Nova Beats,Rock,140,0.43,0.54,0.6,0.45,38
+S081,Sky Heart 81,Neon Rivers,Pop,163,0.7,0.67,0.67,0.69,88
+S082,Gravity Fire 82,Ava Stone,Classical,152,0.46,0.83,0.51,0.7,63
+S083,Fire Light 83,Urban Meadow,Electronic,117,0.66,0.83,0.39,0.46,93
+S084,Light Motion 84,Northline,R&B,72,0.92,0.65,0.25,0.32,52
+S085,Sky Dream 85,Midnight Echo,Hip-Hop,137,0.55,0.4,0.61,0.03,95
+S086,Signal Gravity 86,The Velvet Keys,Jazz,128,0.97,0.65,0.51,0.69,71
+S087,Light Gravity 87,Nova Beats,Electronic,101,0.81,0.84,0.2,0.66,98
+S088,Summer Echo 88,Maya Blue,R&B,176,0.96,0.94,0.34,0.67,72
+S089,Summer Road 89,Rose Harbor,Country,70,0.23,0.77,0.52,0.89,30
+S090,Road Rhythm 90,Maya Blue,R&B,96,0.82,0.22,0.57,0.73,53
+S091,Ocean Moon 91,Nova Beats,Hip-Hop,96,0.49,0.19,0.19,0.61,22
+S092,Velvet River 92,Silver Pulse,R&B,70,0.78,0.79,0.14,0.23,90
+S093,Heart Golden 93,Kai Morgan,Pop,119,0.6,0.69,0.13,0.37,20
+S094,Summer Velvet 94,Nova Beats,Electronic,98,0.87,0.43,0.83,0.28,39
+S095,Ocean Fire 95,Golden Avenue,Electronic,82,0.89,0.3,0.17,0.32,42
+S096,Ocean Moon 96,Silver Pulse,Jazz,129,0.43,0.48,0.22,0.53,100
+S097,Golden Gravity 97,The Calm Lights,Rock,151,0.51,0.88,0.52,0.14,68
+S098,Night Night 98,DJ Horizon,Pop,108,0.21,0.51,0.64,0.32,36
+S099,Golden Rhythm 99,Maya Blue,Jazz,176,0.62,0.38,0.86,0.23,80
+S100,Golden Memory 100,The Velvet Keys,Classical,103,0.78,0.62,0.66,0.28,62

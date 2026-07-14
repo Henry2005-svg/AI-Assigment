@@ -1,0 +1,4 @@
+Model,Precision@10,Recall@10,F1@10,MSE,RMSE
+Collaborative Filtering,0.0633,0.095,0.0748,1.1642,1.079
+Content-Based Filtering,0.07,0.1033,0.0817,0.8358,0.9142
+Hybrid Filtering,0.1333,0.21,0.1602,1.0064,1.0032
