@@ -119,3 +119,4 @@ elif menu == "Model Evaluation":
     st.subheader("Simple Metric Explanations")
     for metric in ["Precision@10", "Recall@10", "F1@10", "MSE", "RMSE"]:
         st.markdown(f"**{metric}:** {explain_metric(metric)}")
+#testing
